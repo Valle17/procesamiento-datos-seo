@@ -4,7 +4,7 @@ ELECTRONIC OLFACTORY SYSTEM CLASSIFICATION RESULTS
 Training set: C:\users\jdaniel\Escritorio\NUEVO ENTRENAMIENTO\ENTRENAMIENTO_II_02022021.fs
 Match set: C:\users\jdaniel\Escritorio\NUEVO ENTRENAMIENTO\MUESTRAS PROBLEMA\compilados_14022022_conlampantes.ds
 Recognition algorithm: KNN: 0 2: NO_DRED: 0: [1 2 3 4]: STD: 2
-Feature extraction algorithm: [2 3 4 6], , ง Classical [1 0 2 7 0 0], 1
+Feature extraction algorithm: [2 3 4 6], , ยง Classical [1 0 2 7 0 0], 1
 N pattern: 75
 
   N |              True label |      Match label
