@@ -43,19 +43,19 @@ El repositorio incluye los datos reales de clasificación
 
 ## Cómo se ve
 
-![Menú principal](assets/captura-menu.png)
+![Menú principal](procesamiento-datos-seo/assets/captura-menu.png)
 
-![Catalogación de una muestra](assets/captura-opcion1.png)
+![Catalogación de una muestra](procesamiento-datos-seo/assets/captura-opcion1.png)
 
-![Catalogación de todas las muestras](assets/captura-opcion2.png)
+![Catalogación de todas las muestras](procesamiento-datos-seo/assets/captura-opcion2.png)
 
-![Análisis completo](assets/captura-opcion3.png)
+![Análisis completo](procesamiento-datos-seo/assets/captura-opcion3.png)
 
-![Exportar análisis](assets/captura-opcion4.png)
+![Exportar análisis](procesamiento-datos-seo/assets/captura-opcion4.png)
 
-![Excel](assets/captura-opcion4-result.png)
+![Excel](procesamiento-datos-seo/assets/captura-opcion4-result.png)
 
-![Cerrar programa](assets/captura-opcion5.png)
+![Cerrar programa](procesamiento-datos-seo/assets/captura-opcion5.png)
 
 ## Limitación conocida
 
