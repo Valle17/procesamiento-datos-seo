@@ -43,7 +43,7 @@ El repositorio incluye los datos reales de clasificación
 
 ## Cómo se ve
 
-![Menú principal](procesamiento-datos-seo/assets/captura-menu.png)
+![Menú principal](procesamiento-datos-seo/assets/captura-menu-v2.png)
 
 ![Catalogación de una muestra](procesamiento-datos-seo/assets/captura-opcion1.png)
 
@@ -55,7 +55,7 @@ El repositorio incluye los datos reales de clasificación
 
 ![Excel](procesamiento-datos-seo/assets/captura-opcion4-result.png)
 
-![Cerrar programa](procesamiento-datos-seo/assets/captura-opcion5.png)
+![Cerrar programa](procesamiento-datos-seo/assets/captura-opcion5-v2.png)
 
 ## Limitación conocida
 
